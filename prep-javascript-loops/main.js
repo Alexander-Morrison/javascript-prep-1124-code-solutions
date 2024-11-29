@@ -145,7 +145,6 @@ function forLoop2() {
 */
 
 const forLoop2Result = forLoop2();
-console.log(forLoop2Result);
 
 // FOR .. IN LOOPS
 
